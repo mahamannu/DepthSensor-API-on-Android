@@ -1,7 +1,7 @@
 # DepthSensor-API-on-Android
 A Tutorial and Code snippet on how to get your Depth Sensor running on Android all the way up to 3rd party apps
 
-Depth Sensor Camera are at the core many AR/VR technologies. A Depth Sensor camera allows scanning the real 3D world/objects in front of the camera and creating a "Depth" map, which can then be translated into a 3D scan. A Simple intuitive application of this is a "Night Vision Goggles".
+Depth Sensor Camera is at the core of many 3D/AR/VR technologies. A Depth Sensor camera allows scanning the real 3D world/objects in front of the camera and creating a "Depth" map, which can then be translated into a 3D scan. A Simple intuitive application of this is a "Night Vision Goggles".
 See  https://3dprint.com/117809/depth-sensing-phone-cameras/ for why Depth Sensor Cameras are the going to be the rage.
 
 
